@@ -28,6 +28,7 @@ const Team = () => {
                 300:{
                     slidesPerView: 2,
                     spaceBetween: 16,
+                    slidesPerView: 'auto'
                 },
                 420:{
                     slidesPerView: 3,
@@ -163,6 +164,9 @@ const Wrapper = styled.section`
         }
         .swiper-container{
             width: 100%;
+        }
+        .swiper-slide{
+            width: 60%;
         }
     }
 `
