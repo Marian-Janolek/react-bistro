@@ -26,7 +26,6 @@ const Team = () => {
             autoplay={3000}
             breakpoints={{
                 300:{
-                    slidesPerView: 2,
                     spaceBetween: 16,
                     slidesPerView: 'auto'
                 },
