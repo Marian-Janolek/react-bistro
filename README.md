@@ -1,4 +1,5 @@
 ## Responsive Bistro Page
+### [Live Site](https://react-bistro.netlify.app/)
 
 - This is my first project with React which I built from the scratch. 
 - It's landing page about bistro, where you can find menu, prices , team who is serving food, reviews of satisfied customers and location of my 'fake' bistro.
